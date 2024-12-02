@@ -1,0 +1,94 @@
+.header{
+    background-color: red;
+    height: 200px;
+    margin: 20px;
+}
+
+
+body{
+    background-color: blue;
+    font-family: Arial, sans-serif;
+}
+
+.content{
+    background-color: yellow;
+    height: 50%;
+    margin: 1%;
+    float: left;
+    width: 98%;
+}
+
+.text-1{
+    text-align: center;
+     color:blue;
+}
+
+.navigation{
+    height: 25%;
+    clear: both;
+    margin: 0px 1%
+}
+
+.navigation-1{
+    background-color: aqua;
+    height: 100%;
+    width: 10%;
+    float: left;
+    margin-right: 20px;
+    color: red;
+    text-align: center;
+}
+
+.pidoras{
+    background-color: green;
+    height: 300px;
+    width: 20%;
+    margin-left: 25px;
+    margin-right: 25px;
+    clear: both;
+    float: left;
+    color:white
+}
+
+.text-2{
+    margin: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-family: Arial, sans-serif;
+}
+.text-3{
+    margin: 10px;
+    margin-left: 25px;
+    font-family: Arial, sans-serif;
+}
+
+.first-content{
+    float: right;
+    background-color:blueviolet;
+    height: 500px;
+    width: 75%;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.Produkts{
+    margin: 30px;
+    font-size: 50px;
+    color: red;
+    font-family: Arial, sans-serif;
+}
+
+.chornaya-zalupa{
+    background-color: black; 
+    color: red; 
+    text-align: right; 
+    font-style: italic; 
+    padding: 10px; 
+    font-family: Arial, sans-serif; 
+    clear: both;
+}
+
+.text-4{
+    font-size: 50px;
+    text-align: center;         
+}
